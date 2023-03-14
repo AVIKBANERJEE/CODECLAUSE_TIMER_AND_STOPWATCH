@@ -131,7 +131,7 @@ body{
         font-weight: bold;
     }
     body{
-        background-image: url("pic2.jpg");
+        background-image: url("images/pic2.jpg");
         background-repeat: no-repeat;
         background-size:100vw 100vh;
         display: flex;
@@ -156,7 +156,7 @@ body{
         font-weight: bold;
     }
     body{
-        background-image: url("pic2.jpg");
+        background-image: url("images/pic2.jpg");
         background-repeat: no-repeat;
         background-size:100vw 85vh;
         display: flex;
@@ -182,7 +182,7 @@ body{
         font-weight: bold;
     }
     body{
-        background-image: url("pic2.jpg");
+        background-image: url("images/pic2.jpg");
         background-repeat: no-repeat;
         background-size:100vw 100vh;
         display: flex;
